@@ -1,1 +1,2 @@
-conda activate midas
+#conda activate midas
+source ${HOME}/.config/vinci/virtualenvs/midas/bin/activate
